@@ -1,0 +1,6 @@
+@Dormy.WebService.Api.Migrations_HostAddress = http://localhost:5118
+
+GET {{Dormy.WebService.Api.Migrations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
